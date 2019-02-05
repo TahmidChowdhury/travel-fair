@@ -2,7 +2,7 @@
   "name": "travel-fair",
   "version": "1.0.0",
   "dependencies": {
-    "jquery": "^3.3.1",
-    "normalize.css": "^8.0.1"
+    "jquery": "2.2.3",
+    "normalize.css": "4.1.1"
   }
 }
